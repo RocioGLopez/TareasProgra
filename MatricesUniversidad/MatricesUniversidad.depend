@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1712629419 source:c:\users\usuario\desktop\rocio\progra 1\tareas\matricesuniversidad\main.cpp
+	<iostream>
+	"Matrices.h"
+
+1712629427 c:\users\usuario\desktop\rocio\progra 1\tareas\matricesuniversidad\include\matrices.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+
